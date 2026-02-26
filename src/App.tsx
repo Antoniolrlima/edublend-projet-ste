@@ -309,7 +309,7 @@ export default function App() {
                   <GraduationCap size={20} />
                 </div>
                 <span className="text-xl font-display font-bold tracking-tight text-white">
-                  Edu<span className="text-brand-600">Blend</span> Projet Ste
+                  Edu<span className="text-brand-600">Blend</span> Project Ste
                 </span>
               </div>
               <p className="max-w-sm mb-8 leading-relaxed">
