@@ -100,7 +100,7 @@ export default function App() {
                 <GraduationCap size={24} />
               </div>
               <span className="text-2xl font-display font-bold tracking-tight text-slate-900">
-                Edu<span className="text-brand-600">Blend</span> Project Ste
+                CPL<span className="text-brand-600">Partner</span> Project Ste
               </span>
             </div>
             
